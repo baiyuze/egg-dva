@@ -1,15 +1,15 @@
 # egg-dva
 
 
-## 技术栈使用  react + dva + lodash + moment + egg 
+## 技术栈使用  react + redux + lodash + moment + egg + es6+ 等等;
 
 ## 关于启动，启动四个服务器，egg服务器，用于前端开发和业务数据交互
 ## webpack一个服务器，用来打包内存资源
 ## 剩下两个服务器，用于刷新浏览器，和资源代理
 
-#启动
+# 启动
 
-## 安装依赖时使用cnpm ii安装所有依赖
+## 安装依赖时使用cnpm run ii安装所有依赖
 
 ## 启动使用npm run dev
 
