@@ -3,6 +3,7 @@
     <component name="ProjectModuleManager">
         <modules>
             <module filepath="$PROJECT_DIR$/.idea/egg_dva.iml" fileurl="file://$PROJECT_DIR$/.idea/egg_dva.iml"/>
+            <module filepath="$PROJECT_DIR$/.idea/egg-dva.iml" fileurl="file://$PROJECT_DIR$/.idea/egg-dva.iml"/>
         </modules>
     </component>
 </project>
